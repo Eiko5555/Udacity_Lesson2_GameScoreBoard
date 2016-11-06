@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="16dc411f0b9b2618a08649d54fd9edae52de6966">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ffc49bfe3aff13a33341f08556a610c026d941e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_81e6c2f225826bc356770c01612ac352b8043c77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_64819fef7c8078263fb7b97eba508e1156e9a3e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e1b43106c006e5a3d1170fb70a995cc29d466a53\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0fd0c24bd332b9fbc1ecfbac8f301b6178b2e03c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0865a379ac9745a514ebd77488724163a420a9bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e15ab697184442bc7f3f32d311d07bb52105f777\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ac2301577a59670307845b190062e95ed4abb30b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9c1621d058f7758da92b768ea13e2cf6f80a80a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_637e22b672bc05c0222bbad1733897e92bbd62b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9be2e6c51db7adf64fc4bbbf508b652ab0292a4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7abb97c965f6ab8f02bb016ef4e19a96eb5c157e">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab91f20835c9f56d35b9c6ab5162dcc8909b8037\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c317d9745bdb24fd9c599d0951693aec5575509b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eac477816be9f1ecf747b12ed1486b9ddf72d9b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_df47d546bb395c056c938011e9973b56a3a9d259\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_962b4d34f2918e8a5a6a02ee986310648e2f32f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\eiko0_000\AndroidstudioProjects\Game_score_board\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b52f2297fc2a7a654170df17b0461815a3e2d6d7\classes.dex" />
+    </item>
+
+</items>
